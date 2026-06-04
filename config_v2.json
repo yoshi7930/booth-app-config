@@ -16,6 +16,26 @@
       "id": "NANOBANANA_THANKS",
       "label": "ありがとう",
       "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_thanks_1780203068474.png"
+    },
+    {
+      "id": "NANOBANANA_SORRY",
+      "label": "ごめんね",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_sorry_1780203088167.png"
+    },
+    {
+      "id": "NANOBANANA_HELLO",
+      "label": "ハロー",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_hello_1780203100878.png"
+    },
+    {
+      "id": "NANOBANANA_BITS",
+      "label": "ビットコイン",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_bits_1780206652678.png"
+    },
+    {
+      "id": "NANOBANANA_OTSUKARESAMA",
+      "label": "お疲れさま",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_otsukaresama_1780406874175.webp"
     }
   ]
 }
