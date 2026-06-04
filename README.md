@@ -1,0 +1,1 @@
+# booth-app-config
