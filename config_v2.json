@@ -4,7 +4,7 @@
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
-    " グループトークの暗号化表示バグの修正"
+    " グループトークの暗号化表示バグの修正",
     "画像の全画面プレビュー ＆ 端末への保存機能の追加"
   ],
   "stamps": [
@@ -30,7 +30,7 @@
     },
     {
       "id": "NANOBANANA_BITS",
-      "label": "ビットコイン",
+      "label": "ビッツ",
       "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_bits_1780206652678.png"
     },
     {
