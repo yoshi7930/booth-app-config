@@ -1,10 +1,11 @@
 {
-  "latestVersionCode": 8,
-  "latestVersionName": "0.0.8",
+  "latestVersionCode": 9,
+  "latestVersionName": "0.0.9",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
-    "自分ノートの内容を入力中にキーボードに隠れて入力中の文字が見えない問題を修正"
+    " グループトークの暗号化表示バグの修正"
+    "画像の全画面プレビュー ＆ 端末への保存機能の追加"
   ],
   "stamps": [
     {
