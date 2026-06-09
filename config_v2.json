@@ -1,14 +1,10 @@
 {
-  "latestVersionCode": 14,
-  "latestVersionName": "0.1.4",
-  "updateUrl": "https://kibou.xdrive.jp/index.php/s/eY8nBmJt5BqQXo8",
+  "latestVersionCode": 15,
+  "latestVersionName": "0.1.5",
+  "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
   "forceUpdate": false,
   "releaseNotes": [
-    "アプリアイコンの未読バッジ（件数）表示に対応しました",
-    "グループトークからの新着通知にグループ名を表示するように改善しました",
-    "メッセージ入力欄が高くなった際に、トーク履歴が自動スクロールするよう改善しました",
-    "バックグラウンド復帰時の意図せず自動既読化バグを修正しました"
-  ],
+        "自分ノートの本文入力欄の省スペース化と、キーボード表示時の自動追従・復帰動作を改善しました"]
   "stamps": [
     {
       "id": "NANOBANANA_OK",
