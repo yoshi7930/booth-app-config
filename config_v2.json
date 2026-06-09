@@ -1,10 +1,14 @@
 {
-  "latestVersionCode": 15,
-  "latestVersionName": "0.1.5",
+  "latestVersionCode": 16,
+  "latestVersionName": "0.1.6",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
   "forceUpdate": false,
   "releaseNotes": [
-        "自分ノートの本文入力欄の省スペース化と、キーボード表示時の自動追従・復帰動作を改善しました"]
+         "友達追加ダイアログにQRコードをスキャンしてIDを自動入力できる機能を追加しました",
+    "QRコードスキャン終了時のPINコード認証をスキップするように改善しました",
+    "アカウント設定で自分のユーザーIDを表示するQRコード生成機能を追加しました",
+    "通知のバックグラウンド最適化（タスクキル対策）設定をアプリ設定の一般設定（通知画面）へ移動しました"
+  ],
   "stamps": [
     {
       "id": "NANOBANANA_OK",
