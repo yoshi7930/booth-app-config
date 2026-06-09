@@ -1,11 +1,13 @@
 {
-  "latestVersionCode": 13,
-  "latestVersionName": "0.1.3",
+  "latestVersionCode": 14,
+  "latestVersionName": "0.1.4",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
-    "アプリが完全に終了していても受信メッセージを通知するように強化しました"
-    
+    "アプリアイコンの未読バッジ（件数）表示に対応しました",
+    "グループトークからの新着通知にグループ名を表示するように改善しました",
+    "メッセージ入力欄が高くなった際に、トーク履歴が自動スクロールするよう改善しました",
+    "バックグラウンド復帰時の意図せず自動既読化バグを修正しました"
   ],
   "stamps": [
     {
