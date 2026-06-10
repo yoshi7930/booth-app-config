@@ -39,6 +39,11 @@
       "id": "NANOBANANA_OTSUKARESAMA",
       "label": "お疲れさま",
       "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_otsukaresama_1780406874175.webp"
+    },
+    {
+      "id": "NANOBANANA_OHAYO",
+      "label": "おはよう",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_ohayo_17815542153.webp"
     }
   ]
 }
