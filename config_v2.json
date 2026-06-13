@@ -9,7 +9,7 @@
   "stamps": [
     {
       "id": "NANOBANANA_OK",
-      "label": "OK",
+      "label": "OK,おっけー",
       "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_ok_1780203054912.bstamp"
     },
     {
@@ -19,17 +19,17 @@
     },
     {
       "id": "NANOBANANA_SORRY",
-      "label": "ごめんね",
+      "label": "ごめんね,そーりー",
       "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_sorry_1780203088167.bstamp"
     },
     {
       "id": "NANOBANANA_HELLO",
-      "label": "ハロー",
+      "label": "ハロー,こんにちは",
       "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_hello_1780203100878.bstamp"
     },
     {
       "id": "NANOBANANA_BITS",
-      "label": "ビッツ",
+      "label": "ビッツ,びっつ",
       "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_bits_1780206652678.bstamp"
     },
     {
