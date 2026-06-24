@@ -1,12 +1,11 @@
 {
-  "latestVersionCode": 18,
-  "latestVersionName": "0.1.8",
+  "latestVersionCode": 19,
+  "latestVersionName": "0.1.9",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
   "forceUpdate": false,
   "releaseNotes": [
-    "メッセージ入力の途中でアプリがバックグラウンドに移行しても、メッセージの続きから入力できるようになりました。",
-    "メッセージに返信できる機能を追加しました。",
-    "メッセージ入力欄にスタンプに関連することを入力すると該当するスタンプがプレビューされる機能を追加しました。"
+    "添付ファイルをメッセージ付きで送信可能にしました",
+    "メッセージ内の画像のプレビュー時にピンチによる拡大機能を追加しました"
   ],
   "stamps": [
     {
