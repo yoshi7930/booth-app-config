@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 26,
-  "latestVersionName": "0.2.6",
+  "latestVersionCode": 29,
+  "latestVersionName": "0.2.9",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
   "forceUpdate": false,
   "releaseNotes": [
-    "データーベースの本番運用の開始"
+    "インポートバグの修正"
   ],
   "stamps": [
     {
