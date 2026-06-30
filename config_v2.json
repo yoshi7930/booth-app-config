@@ -1,11 +1,10 @@
 {
-  "latestVersionCode": 19,
-  "latestVersionName": "0.1.9",
+  "latestVersionCode": 20,
+  "latestVersionName": "0.2.0",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
   "forceUpdate": false,
   "releaseNotes": [
-    "添付ファイルをメッセージ付きで送信可能にしました",
-    "メッセージ内の画像のプレビュー時にピンチによる拡大機能を追加しました"
+    "データーベースのメンテナンス時においてのアプリの実験"
   ],
   "stamps": [
     {
