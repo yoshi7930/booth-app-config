@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 32,
-  "latestVersionName": "0.3.2",
+  "latestVersionCode": 33,
+  "latestVersionName": "0.3.3",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
   "forceUpdate": false,
   "releaseNotes": [
-    "インポートバグの修正"
+    "メッセージの修正"
   ],
   "stamps": [
     {
