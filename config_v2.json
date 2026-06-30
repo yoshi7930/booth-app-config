@@ -4,7 +4,7 @@
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
   "forceUpdate": false,
   "releaseNotes": [
-    "データーベースのメンテナンス時においてのアプリの実験"
+    "データーベースの本番運用の開始"
   ],
   "stamps": [
     {
