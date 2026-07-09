@@ -1,12 +1,12 @@
 {
-  "latestVersionCode": 43,
-  "latestVersionName": "0.4.3",
+  "latestVersionCode": 46,
+  "latestVersionName": "0.4.6",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
   "forceUpdate": false,
   "releaseNotes": [
-    "アプリアイコンバッジ表示の改善（LINEと同じ挙動へ移行）",
-    "アカウント削除・新規作成・インポート時の不具合の解消",
-    "友達追加時の初期メッセージの表示改善とシステム文言の調整"
+    "アカウント復元キーを暗号資産ウォレットと同等の12単語フレーズ（BIP-39規格）へ大幅に強化",
+    "アカウント新規作成・インポート時に一部の端末で発生していた権限エラー（PermissionDenied）の解消",
+    "友達追加・トーク開始時の案内メッセージの表示バグ修正および文言の改善"
   ],
   "stamps": [
     {
