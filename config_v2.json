@@ -1,9 +1,11 @@
 {
-  "latestVersionCode": 40,
-  "latestVersionName": "0.4.0",
+  "latestVersionCode": 42,
+  "latestVersionName": "0.4.2",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
   "forceUpdate": false,
   "releaseNotes": [
+    "友達追加・グループ作成時の初期案内メッセージの文言をより自然な日本語に改善",
+    "友達追加時の初期案内メッセージが暗号化表示される不具合の修正",
     "アプリアイコンバッジのLINE風表示への大幅改善",
     "一部端末でバッジの数字が1に固定される不具合の修正",
     "過去の消えないサイレント通知の自動消去機能の追加",
