@@ -1,12 +1,12 @@
 {
-  "latestVersionCode": 49,
-  "latestVersionName": "0.4.9",
+  "latestVersionCode": 50,
+  "latestVersionName": "0.50",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
   "forceUpdate": false,
   "releaseNotes": [
-    "新規アカウント作成やインポートの直後に再びPINコードを求められる不具合の修正",
-    "セキュリティ制限によるアカウント作成エラー(PermissionDenied)を匿名ログイン導入で解決",
-    "アンインストール時にデータが完全に消去されるよう自動バックアップ機能を無効化"
+    "復元用シークレットキー確認ダイアログの表示前に暗証番号（PIN）の入力を求めるセキュリティチェックを追加しました",
+    "復元用シークレット確認ダイアログ内にアクティブアカウントの「ニックネーム」および「ユーザーID (UUID)」を表示するようにしました",
+    "ニックネーム、ユーザーID (UUID)、シークレットキーをまとめてクリップボードにコピーできる機能を追加しました"
   ],
   "stamps": [
     {
