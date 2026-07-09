@@ -1,12 +1,12 @@
 {
-  "latestVersionCode": 48,
-  "latestVersionName": "0.4.8",
+  "latestVersionCode": 49,
+  "latestVersionName": "0.4.9",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
   "forceUpdate": false,
   "releaseNotes": [
+    "新規アカウント作成やインポートの直後に再びPINコードを求められる不具合の修正",
     "セキュリティ制限によるアカウント作成エラー(PermissionDenied)を匿名ログイン導入で解決",
-    "アンインストール時にデータが完全に消去されるよう自動バックアップ機能を無効化",
-    "アカウント復元キーを暗号資産ウォレットと同等の12単語フレーズ（BIP-39規格）へ大幅に強化"
+    "アンインストール時にデータが完全に消去されるよう自動バックアップ機能を無効化"
   ],
   "stamps": [
     {
