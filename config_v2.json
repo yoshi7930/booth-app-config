@@ -1,10 +1,11 @@
 {
-  "latestVersionCode": 57,
-  "latestVersionName": "0.57",
+  "latestVersionCode": 58,
+  "latestVersionName": "0.58",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
   "forceUpdate": false,
   "releaseNotes": [
-    "データベース暗号化移行処理で、SQLCipherへのエクスポート処理（sqlcipher_export）を正しく実行できず接続エラーが発生していた不具合を完全に修正しました（execSQLからrawQueryに変更してクエリを正常に実行させる対策を適用しました）。"
+    "データベース暗号化導入後、端末スリープ時やバックグラウンドでのKeyStore（セキュアチップ）アクセス制限によって、プッシュ通知の受信および既読マークの同期処理が停止・失敗する重大なデグレード不具合を完全に修正しました（フォアグラウンド時に暗号パスフレーズを安全にキャッシュしてバックグラウンドの読み込みを保証する対策を導入）。",
+    "Android 8.0以上の環境において、バックグラウンドでの常駐メッセージ監視サービスがOSの開始制限（IllegalStateException）により強制終了する問題を修正しました。"
   ],
   "stamps": [
     {
