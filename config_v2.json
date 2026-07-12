@@ -1,12 +1,12 @@
 {
-  "latestVersionCode": 50,
-  "latestVersionName": "0.50",
+  "latestVersionCode": 52,
+  "latestVersionName": "0.52",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "releaseNotes": [
-    "復元用シークレットキー確認ダイアログの表示前に暗証番号（PIN）の入力を求めるセキュリティチェックを追加しました",
-    "復元用シークレット確認ダイアログ内にアクティブアカウントの「ニックネーム」および「ユーザーID (UUID)」を表示するようにしました",
-    "ニックネーム、ユーザーID (UUID)、シークレットキーをまとめてクリップボードにコピーできる機能を追加しました"
+    "ローカルデータベース（Room）全体をSQLCipher（AES-256）で暗号化し、暗号化キーを端末のセキュア領域（KeyStore）で保護するセキュリティ強化機能を追加しました。既存のトークデータやアカウント設定は、安全に暗号化されたローカルDBへ自動的にデータロストなく移行されます。",
+    "メッセージの既読マークが、メッセージの長さやリアクションバッジなどの影響を受けずに、常に送信時刻のすぐ上（バブル本体の左側下端）に綺麗に配置されるようレイアウトを最適化しました。",
+    "nanobananaスタンプセットの『お疲れさま』『おはよう』スタンプが表示・送信・保存されないバグを修正し、R2上のすべてのスタンプ（全7種、.bstamp形式）との同期を完了しました。"
   ],
   "stamps": [
     {
@@ -38,6 +38,11 @@
       "id": "NANOBANANA_OTSUKARESAMA",
       "label": "お疲れさま,お疲れ様,おつかれさま",
       "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_otsukaresama_1780406874175.bstamp"
+    },
+    {
+      "id": "NANOBANANA_OHAYO",
+      "label": "おはよう,オハヨウ,おはよー",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_ohayo_17815542153.bstamp"
     }
   ]
 }
