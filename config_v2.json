@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 61,
-  "latestVersionName": "0.61",
+  "latestVersionCode": 63,
+  "latestVersionName": "0.63",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
   "forceUpdate": false,
   "releaseNotes": [
-    "アカウント復元（再インストール・シークレットキー移行）に伴ってお互いのE2EE暗号公開鍵が変わった際、メッセージの送信直前および新着受信時に、相手の最新の公開鍵をFirestoreから自動的かつ安全にフェッチして共通鍵を動的に同期・再計算する仕組みを導入しました。これにより、アカウント移行後にお互いの共通鍵が不一致となってメッセージが暗号文のまま復号できなくなる現象を完全に解決しました。"
+    "過去の動作確認時やデバッグビルド時の不要な通知チャネル設定（サイレント設定やミュート）がOSの深部に記憶されたままアップデートされていたことが原因で、最新の通知発火処理を施しても通知が完全にブロック・消音されてしまっていた不具合を解消しました。通知チャネルIDをv3（booth_app_chat_notifications_v3）へと強制的に刷新することで、Android OSにヘッドアップ表示（最優先表示・音・バイブあり）のチャネルを新規作成させて表示を復活させました。"
   ],
   "stamps": [
     {
