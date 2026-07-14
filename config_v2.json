@@ -1,46 +1,50 @@
 {
-  "latestVersionCode": 63,
-  "latestVersionName": "0.63",
-  "updateUrl": "https://kibou.xdrive.jp/index.php/s/3Ks9FpSN9EMfZtN",
+  "latestVersionCode": 67,
+  "latestVersionName": "0.67",
+  "updateUrl": "https://kibou.xdrive.jp/index.php/s/eY8nBmJt5BqQXo8",
   "forceUpdate": false,
   "releaseNotes": [
-    "過去の動作確認時やデバッグビルド時の不要な通知チャネル設定（サイレント設定やミュート）がOSの深部に記憶されたままアップデートされていたことが原因で、最新の通知発火処理を施しても通知が完全にブロック・消音されてしまっていた不具合を解消しました。通知チャネルIDをv3（booth_app_chat_notifications_v3）へと強制的に刷新することで、Android OSにヘッドアップ表示（最優先表示・音・バイブあり）のチャネルを新規作成させて表示を復活させました。"
+    "Google Play Services 「Block Store」による全自動データ復旧に対応しました",
+    "アカウント復帰時の「ユーザーID」入力を廃止し、ニックネームとシークレットキーのみで復元できるように改善しました",
+    "アップデートボタン押下時に、バックグラウンドで全アカウントの自動一括バックアップを実行するようにしました",
+    "復元・同期画面でキーボードが表示された際に、画面全体をスクロールして「アカウントを同期・復元」ボタンを押せるようにUI/UXを改善しました",
+    "法執行機関からの開示要請に備え、アクセス元のIPアドレスと日時を100%確実に安全記録するGCP監査ログの有効化に対応しました"
   ],
   "stamps": [
     {
       "id": "NANOBANANA_OK",
-      "label": "OK,おっけー",
-      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_ok_1780203054912.bstamp"
+      "label": "OK",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_ok_1780203054912.png"
     },
     {
       "id": "NANOBANANA_THANKS",
       "label": "ありがとう",
-      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_thanks_1780203068474.bstamp"
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_thanks_1780203068474.png"
     },
     {
       "id": "NANOBANANA_SORRY",
-      "label": "ごめんね,そーりー",
-      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_sorry_1780203088167.bstamp"
+      "label": "ごめんね",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_sorry_1780203088167.png"
     },
     {
       "id": "NANOBANANA_HELLO",
-      "label": "ハロー,こんにちは",
-      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_hello_1780203100878.bstamp"
+      "label": "ハロー",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_hello_1780203100878.png"
     },
     {
       "id": "NANOBANANA_BITS",
-      "label": "ビットコイン,ビッツ",
-      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_bits_1780206652678.bstamp"
+      "label": "ビッツ",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_bits_1780206652678.png"
     },
     {
       "id": "NANOBANANA_OTSUKARESAMA",
-      "label": "お疲れさま,お疲れ様,おつかれさま",
-      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_otsukaresama_1780406874175.bstamp"
+      "label": "お疲れさま",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_otsukaresama_1780406874175.webp"
     },
     {
       "id": "NANOBANANA_OHAYO",
-      "label": "おはよう,オハヨウ,おはよー",
-      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_ohayo_17815542153.bstamp"
+      "label": "おはよう",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_ohayo_17815542153.webp"
     }
   ]
 }
