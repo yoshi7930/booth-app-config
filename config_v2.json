@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 75,
   "latestVersionName": "0.75",
-  "updateUrl": "https://kibou.xdrive.jp/index.php/s/eY8nBmJt5BqQXo8",
+  "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
     "Firebaseを使用せず、エンドツーエンド暗号化（E2EE）と一時バケットを活用した安全なアバター画像（プロフィールアイコン）設定・同期機能に対応しました",
