@@ -1,10 +1,11 @@
 {
-  "latestVersionCode": 78,
-  "latestVersionName": "0.78",
+  "latestVersionCode": 79,
+  "latestVersionName": "0.79",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
-    "一般設定の中にチュートリアルの機能を追加しました"
+    "一般設定の中にチュートリアルの機能を追加しました",
+    "アップデートした際、プロフィール画像が初期値に戻るバグを修正しました"
   ],
   "stamps": [
     {
