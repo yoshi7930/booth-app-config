@@ -1,0 +1,49 @@
+{
+  "latestVersionCode": 76,
+  "latestVersionName": "0.76",
+  "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
+  "forceUpdate": false,
+  "releaseNotes": [
+    "Firebaseを使用せず、エンドツーエンド暗号化（E2EE）と一時バケットを活用した安全なグループアバター画像（アイコン）設定・同期機能に対応しました",
+    "Firebaseを使用せず、エンドツーエンド暗号化（E2EE）と一時バケットを活用した安全なアバター画像（プロフィールアイコン）設定・同期機能に対応しました",
+    "Google Play Services 「Block Store」による全自動データ復旧に対応しました",
+    "アカウント復帰時の「ユーザーID」入力を廃止し、ニックネームとシークレットキーのみで復元できるように改善しました"
+  ],
+  "stamps": [
+    {
+      "id": "NANOBANANA_OK",
+      "label": "OK",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_ok_1780203054912.bstamp"
+    },
+    {
+      "id": "NANOBANANA_THANKS",
+      "label": "ありがとう",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_thanks_1780203068474.bstamp"
+    },
+    {
+      "id": "NANOBANANA_SORRY",
+      "label": "ごめんね",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_sorry_1780203088167.bstamp"
+    },
+    {
+      "id": "NANOBANANA_HELLO",
+      "label": "ハロー",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_hello_1780203100878.bstamp"
+    },
+    {
+      "id": "NANOBANANA_BITS",
+      "label": "ビッツ",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_bits_1780206652678.bstamp"
+    },
+    {
+      "id": "NANOBANANA_OTSUKARESAMA",
+      "label": "お疲れさま",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_otsukaresama_1780406874175.bstamp"
+    },
+    {
+      "id": "NANOBANANA_OHAYO",
+      "label": "おはよう",
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_ohayo_17815542153.bstamp"
+    }
+  ]
+}
