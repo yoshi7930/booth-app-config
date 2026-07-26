@@ -1,13 +1,10 @@
 {
-  "latestVersionCode": 76,
-  "latestVersionName": "0.76",
+  "latestVersionCode": 78,
+  "latestVersionName": "0.78",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
-    "Firebaseを使用せず、エンドツーエンド暗号化（E2EE）と一時バケットを活用した安全なグループアバター画像（アイコン）設定・同期機能に対応しました",
-    "Firebaseを使用せず、エンドツーエンド暗号化（E2EE）と一時バケットを活用した安全なアバター画像（プロフィールアイコン）設定・同期機能に対応しました",
-    "Google Play Services 「Block Store」による全自動データ復旧に対応しました",
-    "アカウント復帰時の「ユーザーID」入力を廃止し、ニックネームとシークレットキーのみで復元できるように改善しました"
+    "一般設定の中にチュートリアルの機能を追加しました"
   ],
   "stamps": [
     {
