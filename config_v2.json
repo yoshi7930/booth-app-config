@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 80,
-  "latestVersionName": "0.80",
+  "latestVersionCode": 81,
+  "latestVersionName": "0.81",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
-    "通話専用のフォアグラウンドサービス（phoneCallタイプ）を導入し、バックグラウンドやタスクキル状態での着信全画面表示および無限ループバイブレーションの動作信頼性を劇的に向上しました"
+    "タスクキル状態からの着信時に、一部端末（Xiaomi等）でアプリが強制終了（クラッシュ）する重大なバグを完全に修正しました"    
   ],
   "stamps": [
     {
