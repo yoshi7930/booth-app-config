@@ -1,47 +1,46 @@
 {
-  "latestVersionCode": 79,
-  "latestVersionName": "0.79",
+  "latestVersionCode": 80,
+  "latestVersionName": "0.80",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
-    "一般設定の中にチュートリアルの機能を追加しました",
-    "アップデートした際、プロフィール画像が初期値に戻るバグを修正しました"
+    "通話専用のフォアグラウンドサービス（phoneCallタイプ）を導入し、バックグラウンドやタスクキル状態での着信全画面表示および無限ループバイブレーションの動作信頼性を劇的に向上しました"
   ],
   "stamps": [
     {
       "id": "NANOBANANA_OK",
       "label": "OK",
-      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_ok_1780203054912.bstamp"
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_ok_1780203054912.png"
     },
     {
       "id": "NANOBANANA_THANKS",
       "label": "ありがとう",
-      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_thanks_1780203068474.bstamp"
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_thanks_1780203068474.png"
     },
     {
       "id": "NANOBANANA_SORRY",
       "label": "ごめんね",
-      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_sorry_1780203088167.bstamp"
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_sorry_1780203088167.png"
     },
     {
       "id": "NANOBANANA_HELLO",
       "label": "ハロー",
-      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_hello_1780203100878.bstamp"
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_hello_1780203100878.png"
     },
     {
       "id": "NANOBANANA_BITS",
       "label": "ビッツ",
-      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_bits_1780206652678.bstamp"
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_bits_1780206652678.png"
     },
     {
       "id": "NANOBANANA_OTSUKARESAMA",
       "label": "お疲れさま",
-      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_otsukaresama_1780406874175.bstamp"
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_otsukaresama_1780406874175.webp"
     },
     {
       "id": "NANOBANANA_OHAYO",
       "label": "おはよう",
-      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_ohayo_17815542153.bstamp"
+      "imageUrl": "https://pub-20580689499c4e02b1b6963ed5347911.r2.dev/nanobanana_ohayo_17815542153.webp"
     }
   ]
 }
