@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 81,
-  "latestVersionName": "0.81",
+  "latestVersionCode": 82,
+  "latestVersionName": "0.82",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
-    "タスクキル状態からの着信時に、一部端末（Xiaomi等）でアプリが強制終了（クラッシュ）する重大なバグを完全に修正しました"    
+    "マナーモード時やスリープロック画面でのバイブレーション動作不具合を完全に修正しました"
   ],
   "stamps": [
     {
