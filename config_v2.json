@@ -1,14 +1,10 @@
 {
-  "latestVersionCode": 85,
-  "latestVersionName": "0.85",
+  "latestVersionCode": 86,
+  "latestVersionName": "0.86",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "releaseNotes": [
-    "「データエクスポート」機能: GDPR等の「データポータビリティ権」に対応するため、ユーザーがチャット履歴やプロフィール情報をJSON/CSV形式でダウンロード可能にしました。",
-"「アカウント削除」の自動化: 設定画面からの削除により、バックエンド側のデータ（DB、キャッシュ、ログ）が自動的に復元不能な形で削除される仕組みを構築しました。",
-"「プライバシー設定」画面の設置: ユーザーが情報の利用範囲（広告利用のオン/オフなど）をトグルスイッチで選択できるようにしました。",
-"既読マークが安定して作動するように修正しました",
-"添付ファイル送信時に付けられるメッセージを複数行に対応しました。"
+   "セキュリティのアップデートを実施しました"
   ],
   "stamps": [
     {
