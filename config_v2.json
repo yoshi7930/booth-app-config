@@ -1,10 +1,13 @@
 {
-  "latestVersionCode": 87,
-  "latestVersionName": "0.87",
+  "latestVersionCode": 88,
+  "latestVersionName": "0.88",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
-   "アプリの初回インストール時、各設定ダイアログボックスを表示するようにしました。"
+   "通報システムを導入しました",
+    "ともだち画面で友達を選択すると、プロフィール画面へ移行すできるように変更しました。",
+    "既読マークが不安定になりにくくなるように修正しました。",
+    "その他、データベースの改善を行いました。"
   ],
   "stamps": [
     {
