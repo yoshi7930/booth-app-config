@@ -1,12 +1,12 @@
 {
-  "latestVersionCode": 91,
-  "latestVersionName": "0.901",
+  "latestVersionCode": 93,
+  "latestVersionName": "0.903"
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
-   "アカウントの完全削除を直感的にわかりやすくしました。",
-    "トークルークのメッセージから自分ノートへの転記ができる機能を実装しました。",
-    "通話が繋がるまでの間、発信音を追加しました。"
+    "トークルークのメッセージから自分ノートへの転記(新規・既存両対応)ができる機能を実装しました。",
+    "アプリを縦画面に固定できるようにしました。",
+    "通話が繋がるまでの間、発信音を変更しました。"
   ],
   "stamps": [
     {
