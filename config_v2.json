@@ -1,12 +1,11 @@
 {
-  "latestVersionCode": 88,
-  "latestVersionName": "0.88",
+  "latestVersionCode": 90,
+  "latestVersionName": "0.90",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
-   "通報システムを導入しました",
-    "ともだち画面で友達を選択すると、プロフィール画面へ移行すできるように変更しました。",
-    "既読マークが不安定になりにくくなるように修正しました。",
+   "アカウント情報・トーク履歴等の情報をローカルフォルダ（Json）に保存できるようにしました。",
+    "既読マーク・トークルームの仕様を変更しました。",
     "その他、データベースの改善を行いました。"
   ],
   "stamps": [
