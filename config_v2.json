@@ -1,13 +1,13 @@
 {
-  "latestVersionCode": 98,
-  "latestVersionName": "0.908",
+  "latestVersionCode": 102,
+  "latestVersionName": "0.9201",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
-    "全画面着信通知に対応しました",
-    "ビデオ通話にて、インカメラ・アウトカメラの切り替えに対応しました",
-    "有料スタンプ『にゃんるんにゃんろん (8個)』に対応しました",
-    "セキュリティ強化のため配信URLを公式独自ドメインに完全移行しました"
+    "新有料スタンプ『にゃんるんにゃんろん (8個)』に対応しました",
+    "スタンプ配信URLを公式独自ドメインに完全移行しました",
+    "全画面着信通知およびWebRTC通話の安定性を向上しました",
+    "軽微なバグ修正およびパフォーマンスの最適化を行いました"
   ],
   "stamps": [
     {
