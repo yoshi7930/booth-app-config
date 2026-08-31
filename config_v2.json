@@ -1,12 +1,12 @@
 {
-  "latestVersionCode": 107,
-  "latestVersionName": "0.9206",
+  "latestVersionCode": 108,
+  "latestVersionName": "0.9207",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
+    "友達・ルーム再接続時に空のメッセージ（1970年表示）が残る不具合を完全修正しました",
     "過去に送信・受信したメッセージの既読マーク一括自動修復機能を追加しました",
-    "メッセージを実際に読んだ時だけ既読がつくよう判定処理を最適化しました",
-    "未同期の既読シグナルを確実に再送・リカバリする機能を強化しました"
+    "メッセージを実際に読んだ時だけ既読がつくよう判定処理を最適化しました"
   ],
   "stamps": [
     {
