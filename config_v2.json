@@ -1,13 +1,12 @@
 {
-  "latestVersionCode": 102,
-  "latestVersionName": "0.9201",
+  "latestVersionCode": 103,
+  "latestVersionName": "0.9202",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": false,
   "releaseNotes": [
-    "新有料スタンプ『にゃんるんにゃんろん (8個)』に対応しました",
-    "スタンプ配信URLを公式独自ドメインに完全移行しました",
-    "全画面着信通知およびWebRTC通話の安定性を向上しました",
-    "軽微なバグ修正およびパフォーマンスの最適化を行いました"
+    "Webマイページからワンタップでアプリ起動＆PIN解除後に自動でWebログインコード（OTP）ダイアログを表示するシームレス連携機能を追加しました",
+    "アカウント設定のWebログインボタンを「公式ページへ」に刷新し、ダイアログ内から公式サイトの閲覧やユーザーID・OTPのワンタップコピーができるように改善しました",
+    "Webマイページのヘッダーおよびメニュースタイルのレイアウトを最適化しました"
   ],
   "stamps": [
     {
