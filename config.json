@@ -1,0 +1,120 @@
+{
+  "latestVersionCode": 106,
+  "latestVersionName": "0.9205",
+  "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
+  "forceUpdate": false,
+  "releaseNotes": [
+    "メッセージを実際に読んだ時だけ既読がつくよう判定処理を最適化しました",
+    "アプリアップデート時や通信切断時に既読マークがつかなくなる不具合を恒久修正しました",
+    "未同期の既読シグナルを確実に再送・リカバリする機能を強化しました"
+  ],
+  "stamps": [
+    {
+      "id": "NANOBANANA_OK",
+      "label": "OK,おっけー",
+      "imageUrl": "https://nanobanana.booth-messenger.com/nanobanana_ok_1780203054912.bstamp"
+    },
+    {
+      "id": "NANOBANANA_THANKS",
+      "label": "ありがとう",
+      "imageUrl": "https://nanobanana.booth-messenger.com/nanobanana_thanks_1780203068474.bstamp"
+    },
+    {
+      "id": "NANOBANANA_SORRY",
+      "label": "ごめんね,そーりー",
+      "imageUrl": "https://nanobanana.booth-messenger.com/nanobanana_sorry_1780203088167.bstamp"
+    },
+    {
+      "id": "NANOBANANA_HELLO",
+      "label": "ハロー,こんにちは",
+      "imageUrl": "https://nanobanana.booth-messenger.com/nanobanana_hello_1780203100878.bstamp"
+    },
+    {
+      "id": "NANOBANANA_BITS",
+      "label": "ビットコイン,ビッツ",
+      "imageUrl": "https://nanobanana.booth-messenger.com/nanobanana_bits_1780206652678.bstamp"
+    },
+    {
+      "id": "NANOBANANA_OTSUKARESAMA",
+      "label": "お疲れさま,お疲れ様,おつかれさま",
+      "imageUrl": "https://nanobanana.booth-messenger.com/nanobanana_otsukaresama_1780406874175.bstamp"
+    },
+    {
+      "id": "NANOBANANA_OHAYO",
+      "label": "おはよう",
+      "imageUrl": "https://nanobanana.booth-messenger.com/nanobanana_ohayo_17815542153.bstamp"
+    },
+    {
+      "id": "NYANRUN_01",
+      "label": "おはよう,挨拶",
+      "imageUrl": "https://nyanrun.booth-messenger.com/ohayo.bstamp",
+      "isPremium": true,
+      "packId": "pack_nyanrun_01",
+      "category": "にゃんるんにゃんろん",
+      "price": "$1.50"
+    },
+    {
+      "id": "NYANRUN_02",
+      "label": "承知しました,了解,OK",
+      "imageUrl": "https://nyanrun.booth-messenger.com/syoutishimasita.bstamp",
+      "isPremium": true,
+      "packId": "pack_nyanrun_01",
+      "category": "にゃんるんにゃんろん",
+      "price": "$1.50"
+    },
+    {
+      "id": "NYANRUN_03",
+      "label": "向かってます,移動中",
+      "imageUrl": "https://nyanrun.booth-messenger.com/mukatteimasu.bstamp",
+      "isPremium": true,
+      "packId": "pack_nyanrun_01",
+      "category": "にゃんるんにゃんろん",
+      "price": "$1.50"
+    },
+    {
+      "id": "NYANRUN_04",
+      "label": "遅れそうです,遅刻,ごめん",
+      "imageUrl": "https://nyanrun.booth-messenger.com/okuresoudesu.bstamp",
+      "isPremium": true,
+      "packId": "pack_nyanrun_01",
+      "category": "にゃんるんにゃんろん",
+      "price": "$1.50"
+    },
+    {
+      "id": "NYANRUN_05",
+      "label": "体調悪い,具合悪い,風邪",
+      "imageUrl": "https://nyanrun.booth-messenger.com/taichowaruidesu.bstamp",
+      "isPremium": true,
+      "packId": "pack_nyanrun_01",
+      "category": "にゃんるんにゃんろん",
+      "price": "$1.50"
+    },
+    {
+      "id": "NYANRUN_06",
+      "label": "元気に回復,元気,治った",
+      "imageUrl": "https://nyanrun.booth-messenger.com/genkininarimasita.bstamp",
+      "isPremium": true,
+      "packId": "pack_nyanrun_01",
+      "category": "にゃんるんにゃんろん",
+      "price": "$1.50"
+    },
+    {
+      "id": "NYANRUN_07",
+      "label": "お疲れ様,おつかれ",
+      "imageUrl": "https://nyanrun.booth-messenger.com/otsukaresamadeshita.bstamp",
+      "isPremium": true,
+      "packId": "pack_nyanrun_01",
+      "category": "にゃんるんにゃんろん",
+      "price": "$1.50"
+    },
+    {
+      "id": "NYANRUN_08",
+      "label": "おやすみ,zzz,睡眠",
+      "imageUrl": "https://nyanrun.booth-messenger.com/oyasumi.bstamp",
+      "isPremium": true,
+      "packId": "pack_nyanrun_01",
+      "category": "にゃんるんにゃんろん",
+      "price": "$1.50"
+    }
+  ]
+}
