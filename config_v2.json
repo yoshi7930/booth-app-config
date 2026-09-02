@@ -1,12 +1,33 @@
 {
-  "latestVersionCode": 109,
-  "latestVersionName": "0.9208",
+  "latestVersionCode": 110,
+  "latestVersionName": "0.9209",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "releaseNotes": [
-    "新着メッセージ通知で相手のニックネームが正しく表示されるように改善しました",
-    "友達追加時に個別トークで不要な重複システムメッセージが表示される問題を修正しました",
-    "過去に送信・受信したメッセージの既読マーク一括自動修復機能を追加しました"
+    "【重要】E2EE暗号化通信および認証セキュリティを最高水準に強化しました",
+    "メッセージ引用返信テキストの完全暗号化に対応しました",
+    "アプリの全体的な安全性と安定性を向上させました"
+  ],
+  "stampPacks": [
+    {
+      "packId": "pack_nyanrun_01",
+      "packName": "にゃんるんにゃんろん (8個)",
+      "description": "かわいいネコちゃんキャラの日常使い・リアクションスタンプパック（全8種）",
+      "price": 1.5,
+      "currency": "USD",
+      "icon": "fa-solid fa-cat",
+      "color": "#ec4899",
+      "stamps": [
+        { "id": "NYANRUN_01", "name": "おはよう", "url": "https://nyanrun.booth-messenger.com/ohayo.bstamp" },
+        { "id": "NYANRUN_02", "name": "承知しました", "url": "https://nyanrun.booth-messenger.com/syoutishimasita.bstamp" },
+        { "id": "NYANRUN_03", "name": "向かってます", "url": "https://nyanrun.booth-messenger.com/mukatteimasu.bstamp" },
+        { "id": "NYANRUN_04", "name": "遅れそうです", "url": "https://nyanrun.booth-messenger.com/okuresoudesu.bstamp" },
+        { "id": "NYANRUN_05", "name": "体調悪い", "url": "https://nyanrun.booth-messenger.com/taichowaruidesu.bstamp" },
+        { "id": "NYANRUN_06", "name": "元気に回復", "url": "https://nyanrun.booth-messenger.com/genkininarimasita.bstamp" },
+        { "id": "NYANRUN_07", "name": "お疲れ様", "url": "https://nyanrun.booth-messenger.com/otsukaresamadeshita.bstamp" },
+        { "id": "NYANRUN_08", "name": "おやすみ", "url": "https://nyanrun.booth-messenger.com/oyasumi.bstamp" }
+      ]
+    }
   ],
   "stamps": [
     {
