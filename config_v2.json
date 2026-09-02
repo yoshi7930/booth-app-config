@@ -10,6 +10,26 @@
   ],
   "stampPacks": [
     {
+      "packId": "pack_toypoodle_01",
+      "packName": "トイプードル (Toy Poodle)",
+      "description": "🐶 スポンサー広告閲覧で無料GET！愛らしいトイプードルの日常スタンプ（全8種 / 24時間使い放題）",
+      "price": 0.0,
+      "isReward": true,
+      "currency": "USD",
+      "icon": "fa-solid fa-dog",
+      "color": "#f59e0b",
+      "stamps": [
+        { "id": "POODLE_OK", "name": "OK！", "url": "https://pub-90a33ef476ab4b969d70672f403ae56e.r2.dev/toypoodle_ok.bstamp" },
+        { "id": "POODLE_THANKS", "name": "ありがとう", "url": "https://pub-90a33ef476ab4b969d70672f403ae56e.r2.dev/toypoodle_thanks.bstamp" },
+        { "id": "POODLE_OTSUKARE", "name": "おつかれさま", "url": "https://pub-90a33ef476ab4b969d70672f403ae56e.r2.dev/toypoodle_otsukare.bstamp" },
+        { "id": "POODLE_SORRY", "name": "ごめんね", "url": "https://pub-90a33ef476ab4b969d70672f403ae56e.r2.dev/toypoodle_sorry.bstamp" },
+        { "id": "POODLE_OHAYO", "name": "おはよう", "url": "https://pub-90a33ef476ab4b969d70672f403ae56e.r2.dev/toypoodle_ohayo.bstamp" },
+        { "id": "POODLE_OYASUMI", "name": "おやすみ", "url": "https://pub-90a33ef476ab4b969d70672f403ae56e.r2.dev/toypoodle_oyasumi.bstamp" },
+        { "id": "POODLE_YOROSHIKU", "name": "よろしくね", "url": "https://pub-90a33ef476ab4b969d70672f403ae56e.r2.dev/toypoodle_yoroshiku.bstamp" },
+        { "id": "POODLE_IINE", "name": "いいね！", "url": "https://pub-90a33ef476ab4b969d70672f403ae56e.r2.dev/toypoodle_iine.bstamp" }
+      ]
+    },
+    {
       "packId": "pack_nyanrun_01",
       "packName": "にゃんるんにゃんろん (8個)",
       "description": "かわいいネコちゃんキャラの日常使い・リアクションスタンプパック（全8種）",
