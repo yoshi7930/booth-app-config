@@ -1,9 +1,10 @@
 {
-  "latestVersionCode": 116,
-  "latestVersionName": "0.9224",
+  "latestVersionCode": 117,
+  "latestVersionName": "0.9225",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": true,
   "releaseNotes": [
+    "【新機能】トークルーム内のメッセージあいまい検索（ひらがな・カタカナ相互検索、全角半角正規化、AND検索）および複数検索結果の一覧選択・ナビゲーション機能を追加しました",
     "【多言語化】アプリ全体・ダイアログ・通知の5言語（日・英・韓・泰・葡）完全ローカライズに対応しました",
     "【重要】E2EE暗号化通信および認証セキュリティを最高水準に強化しました",
     "メッセージ引用返信テキストの完全暗号化に対応しました",
