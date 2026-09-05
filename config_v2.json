@@ -1,9 +1,10 @@
 {
-  "latestVersionCode": 121,
-  "latestVersionName": "0.9229",
+  "latestVersionCode": 122,
+  "latestVersionName": "0.9230",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": true,
   "releaseNotes": [
+    "【機能追加】トーク画面のスタンプピッカーにて、広告特典スタンプの利用可能時間（残り時間）のリアルタイム動的表示に対応しました",
     "【デザイン改善】全スタンプの余白を極限まで削減し、トーク画面やスタンプ選択画面での表示サイズを大きく見やすく最適化しました",
     "【新機能】Cloudflare R2（ゼロ知識E2EE暗号化）による安全・高速な写真・画像・添付ファイル送信機能を正式実装しました",
     "【機能改善】スタンプ描画サイズをトイプードル基準に最適化し、一覧表示の統一感と見やすさを向上させました",
