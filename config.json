@@ -20,14 +20,97 @@
       "icon": "fa-solid fa-cat",
       "color": "#ec4899",
       "stamps": [
-        { "id": "NYANRUN_01", "name": "おはよう", "url": "https://nyanrun.booth-messenger.com/ohayo.bstamp" },
-        { "id": "NYANRUN_02", "name": "承知しました", "url": "https://nyanrun.booth-messenger.com/syoutishimasita.bstamp" },
-        { "id": "NYANRUN_03", "name": "向かってます", "url": "https://nyanrun.booth-messenger.com/mukatteimasu.bstamp" },
-        { "id": "NYANRUN_04", "name": "遅れそうです", "url": "https://nyanrun.booth-messenger.com/okuresoudesu.bstamp" },
-        { "id": "NYANRUN_05", "name": "体調悪い", "url": "https://nyanrun.booth-messenger.com/taichowaruidesu.bstamp" },
-        { "id": "NYANRUN_06", "name": "元気に回復", "url": "https://nyanrun.booth-messenger.com/genkininarimasita.bstamp" },
-        { "id": "NYANRUN_07", "name": "お疲れ様", "url": "https://nyanrun.booth-messenger.com/otsukaresamadeshita.bstamp" },
-        { "id": "NYANRUN_08", "name": "おやすみ", "url": "https://nyanrun.booth-messenger.com/oyasumi.bstamp" }
+        {
+          "id": "NYANRUN_01",
+          "name": "おはよう",
+          "url": "https://nyanrun.booth-messenger.com/ohayo.bstamp"
+        },
+        {
+          "id": "NYANRUN_02",
+          "name": "承知しました",
+          "url": "https://nyanrun.booth-messenger.com/syoutishimasita.bstamp"
+        },
+        {
+          "id": "NYANRUN_03",
+          "name": "向かってます",
+          "url": "https://nyanrun.booth-messenger.com/mukatteimasu.bstamp"
+        },
+        {
+          "id": "NYANRUN_04",
+          "name": "遅れそうです",
+          "url": "https://nyanrun.booth-messenger.com/okuresoudesu.bstamp"
+        },
+        {
+          "id": "NYANRUN_05",
+          "name": "体調悪い",
+          "url": "https://nyanrun.booth-messenger.com/taichowaruidesu.bstamp"
+        },
+        {
+          "id": "NYANRUN_06",
+          "name": "元気に回復",
+          "url": "https://nyanrun.booth-messenger.com/genkininarimasita.bstamp"
+        },
+        {
+          "id": "NYANRUN_07",
+          "name": "お疲れ様",
+          "url": "https://nyanrun.booth-messenger.com/otsukaresamadeshita.bstamp"
+        },
+        {
+          "id": "NYANRUN_08",
+          "name": "おやすみ",
+          "url": "https://nyanrun.booth-messenger.com/oyasumi.bstamp"
+        }
+      ]
+    },
+    {
+      "packId": "pack_mokamaru_01",
+      "packName": "カフェわん モカまる (8個)",
+      "description": "☕ コーヒーモチーフの看板犬「モカまる」の癒やし＆気遣いスタンプパック（全8種）",
+      "price": 1.5,
+      "currency": "USD",
+      "icon": "fa-solid fa-mug-hot",
+      "color": "#b45309",
+      "stamps": [
+        {
+          "id": "MOKAMARU_01",
+          "name": "一息つこうよ",
+          "url": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_hitoiki.bstamp"
+        },
+        {
+          "id": "MOKAMARU_02",
+          "name": "休憩しない？",
+          "url": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_kyukei.bstamp"
+        },
+        {
+          "id": "MOKAMARU_03",
+          "name": "ちょっといい？",
+          "url": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_chottoii.bstamp"
+        },
+        {
+          "id": "MOKAMARU_04",
+          "name": "のんびりいこう",
+          "url": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_nonbiri.bstamp"
+        },
+        {
+          "id": "MOKAMARU_05",
+          "name": "作業中！",
+          "url": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_sagyo.bstamp"
+        },
+        {
+          "id": "MOKAMARU_06",
+          "name": "ほっこり",
+          "url": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_hokkori.bstamp"
+        },
+        {
+          "id": "MOKAMARU_07",
+          "name": "お話きくよ？",
+          "url": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_kikuyo.bstamp"
+        },
+        {
+          "id": "MOKAMARU_08",
+          "name": "今日もファイト！",
+          "url": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_fight.bstamp"
+        }
       ]
     }
   ],
@@ -137,6 +220,78 @@
       "isPremium": true,
       "packId": "pack_nyanrun_01",
       "category": "にゃんるんにゃんろん",
+      "price": "$1.50"
+    },
+    {
+      "id": "MOKAMARU_01",
+      "label": "一息つこうよ,ひといき",
+      "imageUrl": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_hitoiki.bstamp",
+      "isPremium": true,
+      "packId": "pack_mokamaru_01",
+      "category": "カフェわん モカまる",
+      "price": "$1.50"
+    },
+    {
+      "id": "MOKAMARU_02",
+      "label": "休憩しない？,きゅうけい",
+      "imageUrl": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_kyukei.bstamp",
+      "isPremium": true,
+      "packId": "pack_mokamaru_01",
+      "category": "カフェわん モカまる",
+      "price": "$1.50"
+    },
+    {
+      "id": "MOKAMARU_03",
+      "label": "ちょっといい？,確認",
+      "imageUrl": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_chottoii.bstamp",
+      "isPremium": true,
+      "packId": "pack_mokamaru_01",
+      "category": "カフェわん モカまる",
+      "price": "$1.50"
+    },
+    {
+      "id": "MOKAMARU_04",
+      "label": "のんびりいこう,マイペース",
+      "imageUrl": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_nonbiri.bstamp",
+      "isPremium": true,
+      "packId": "pack_mokamaru_01",
+      "category": "カフェわん モカまる",
+      "price": "$1.50"
+    },
+    {
+      "id": "MOKAMARU_05",
+      "label": "作業中！,集中",
+      "imageUrl": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_sagyo.bstamp",
+      "isPremium": true,
+      "packId": "pack_mokamaru_01",
+      "category": "カフェわん モカまる",
+      "price": "$1.50"
+    },
+    {
+      "id": "MOKAMARU_06",
+      "label": "ほっこり,癒やし",
+      "imageUrl": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_hokkori.bstamp",
+      "isPremium": true,
+      "packId": "pack_mokamaru_01",
+      "category": "カフェわん モカまる",
+      "price": "$1.50"
+    },
+    {
+      "id": "MOKAMARU_07",
+      "label": "お話きくよ？,相談",
+      "imageUrl": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_kikuyo.bstamp",
+      "isPremium": true,
+      "packId": "pack_mokamaru_01",
+      "category": "カフェわん モカまる",
+      "price": "$1.50"
+    },
+    {
+      "id": "MOKAMARU_08",
+      "label": "今日もファイト！,応援",
+      "imageUrl": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_fight.bstamp",
+      "isPremium": true,
+      "packId": "pack_mokamaru_01",
+      "category": "カフェわん モカまる",
       "price": "$1.50"
     }
   ]
