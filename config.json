@@ -1,9 +1,10 @@
 {
-  "latestVersionCode": 123,
-  "latestVersionName": "0.9231",
+  "latestVersionCode": 124,
+  "latestVersionName": "0.9232",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": true,
   "releaseNotes": [
+    "【規約準拠・利便性向上】Google Playポリシーに準拠し、Webログインダイアログを共通化・公式サイトURLコピー方式に統一しました",
     "【機能改善】3アカウント以上登録時の超過ロック画面において、WebログインOTPダイアログの発行および公式サイトURLのワンタップコピー機能に対応しました",
     "【利便性向上】バックグラウンド移行や暗証番号（PIN）ロック解除後も、開いていたOTPダイアログがそのまま継続表示されるよう改善しました",
     "【多言語化】超過ロック画面やWebログインOTPダイアログの全5言語（日・英・韓・泰・葡）完全ローカライズに対応しました",
