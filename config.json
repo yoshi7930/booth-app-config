@@ -1,9 +1,11 @@
 {
-  "latestVersionCode": 125,
-  "latestVersionName": "0.9233",
+  "latestVersionCode": 126,
+  "latestVersionName": "0.9234",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": true,
   "releaseNotes": [
+    "【高速化・改善】着信処理の完全ゼロDB化により、通話着信が0ミリ秒で即座にポップアップ起動するよう改善しました",
+    "【高速化・改善】事前認証ウォームアップおよび通知処理の最適化により、メッセージ送受信時のタイムラグを解消しました",
     "【利便性向上】トークルームでのファイル添付時・閲覧時や招待共有時に暗証番号（PIN）ロックをスキップするよう改善しました",
     "【規約準拠・利便性向上】Google Playポリシーに準拠し、Webログインダイアログを共通化・公式サイトURLコピー方式に統一しました",
     "【機能改善】3アカウント以上登録時の超過ロック画面において、WebログインOTPダイアログの発行および公式サイトURLのワンタップコピー機能に対応しました",
