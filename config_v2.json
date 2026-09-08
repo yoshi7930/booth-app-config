@@ -1,9 +1,10 @@
 {
-  "latestVersionCode": 127,
-  "latestVersionName": "0.9235",
+  "latestVersionCode": 128,
+  "latestVersionName": "0.9236",
   "updateUrl": "https://kibou.xdrive.jp/index.php/s/LNH6pzC8piyJXFp",
   "forceUpdate": true,
   "releaseNotes": [
+    "【機能改善】Google Playポリシー準拠のアカウント削除申請専用Webページ提供およびアプリ内連携に対応しました",
     "【操作性改善】メッセージ送信後に入力欄クリアと連動して最下部（最新メッセージ）へ確実にスクロール追従するよう改善しました",
     "【機能改善】スタンプサジェストのキーワード完全一致化、およびサジェスト送信時限定の入力文字クリアに対応しました",
     "【高速化・改善】着信処理の完全ゼロDB化により、通話着信が0ミリ秒で即座にポップアップ起動するよう改善しました",
