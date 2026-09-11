@@ -166,6 +166,57 @@
           "url": "https://pub-8b87502e52ee4647ada70b401e2bf162.r2.dev/mokamaru_fight.bstamp"
         }
       ]
+    },
+    {
+      "packId": "pack_wafu_01",
+      "packName": "日本の和の風景 (8個)",
+      "description": "🌸 富士山や千本鳥居、錦秋の紅葉など情緒豊かな日本の美しい風景スタンプパック（全8種）",
+      "price": 1.5,
+      "currency": "USD",
+      "icon": "fa-solid fa-mountain-sun",
+      "color": "#e11d48",
+      "stamps": [
+        {
+          "id": "WAFU_01",
+          "name": "富士山と桜",
+          "url": "https://wafu.booth-messenger.com/wafu_fuji_sakura.bstamp"
+        },
+        {
+          "id": "WAFU_02",
+          "name": "千本鳥居",
+          "url": "https://wafu.booth-messenger.com/wafu_torii.bstamp"
+        },
+        {
+          "id": "WAFU_03",
+          "name": "竹林の小径",
+          "url": "https://wafu.booth-messenger.com/wafu_bamboo.bstamp"
+        },
+        {
+          "id": "WAFU_04",
+          "name": "五重塔と紅葉",
+          "url": "https://wafu.booth-messenger.com/wafu_pagoda_autumn.bstamp"
+        },
+        {
+          "id": "WAFU_05",
+          "name": "白川郷の雪景色",
+          "url": "https://wafu.booth-messenger.com/wafu_shirakawago_winter.bstamp"
+        },
+        {
+          "id": "WAFU_06",
+          "name": "夏の縁側と風鈴",
+          "url": "https://wafu.booth-messenger.com/wafu_engawa_summer.bstamp"
+        },
+        {
+          "id": "WAFU_07",
+          "name": "太鼓橋と錦鯉",
+          "url": "https://wafu.booth-messenger.com/wafu_garden_koi.bstamp"
+        },
+        {
+          "id": "WAFU_08",
+          "name": "月夜の城と夜桜",
+          "url": "https://wafu.booth-messenger.com/wafu_castle_moon.bstamp"
+        }
+      ]
     }
   ],
   "stamps": [
@@ -353,6 +404,78 @@
       "isPremium": true,
       "packId": "pack_mokamaru_01",
       "category": "カフェわん モカまる",
+      "price": "$1.50"
+    },
+    {
+      "id": "WAFU_01",
+      "label": "富士山と桜,富士山,桜,春",
+      "imageUrl": "https://wafu.booth-messenger.com/wafu_fuji_sakura.bstamp",
+      "isPremium": true,
+      "packId": "pack_wafu_01",
+      "category": "日本の和の風景",
+      "price": "$1.50"
+    },
+    {
+      "id": "WAFU_02",
+      "label": "千本鳥居,鳥居,神社,京都",
+      "imageUrl": "https://wafu.booth-messenger.com/wafu_torii.bstamp",
+      "isPremium": true,
+      "packId": "pack_wafu_01",
+      "category": "日本の和の風景",
+      "price": "$1.50"
+    },
+    {
+      "id": "WAFU_03",
+      "label": "竹林の小径,竹林,嵐山,竹",
+      "imageUrl": "https://wafu.booth-messenger.com/wafu_bamboo.bstamp",
+      "isPremium": true,
+      "packId": "pack_wafu_01",
+      "category": "日本の和の風景",
+      "price": "$1.50"
+    },
+    {
+      "id": "WAFU_04",
+      "label": "五重塔と紅葉,五重塔,紅葉,秋",
+      "imageUrl": "https://wafu.booth-messenger.com/wafu_pagoda_autumn.bstamp",
+      "isPremium": true,
+      "packId": "pack_wafu_01",
+      "category": "日本の和の風景",
+      "price": "$1.50"
+    },
+    {
+      "id": "WAFU_05",
+      "label": "白川郷の雪景色,白川郷,雪,冬",
+      "imageUrl": "https://wafu.booth-messenger.com/wafu_shirakawago_winter.bstamp",
+      "isPremium": true,
+      "packId": "pack_wafu_01",
+      "category": "日本の和の風景",
+      "price": "$1.50"
+    },
+    {
+      "id": "WAFU_06",
+      "label": "夏の縁側と風鈴,縁側,風鈴,夏",
+      "imageUrl": "https://wafu.booth-messenger.com/wafu_engawa_summer.bstamp",
+      "isPremium": true,
+      "packId": "pack_wafu_01",
+      "category": "日本の和の風景",
+      "price": "$1.50"
+    },
+    {
+      "id": "WAFU_07",
+      "label": "太鼓橋と錦鯉,日本庭園,鯉,橋",
+      "imageUrl": "https://wafu.booth-messenger.com/wafu_garden_koi.bstamp",
+      "isPremium": true,
+      "packId": "pack_wafu_01",
+      "category": "日本の和の風景",
+      "price": "$1.50"
+    },
+    {
+      "id": "WAFU_08",
+      "label": "月夜の城と夜桜,城,満月,夜桜",
+      "imageUrl": "https://wafu.booth-messenger.com/wafu_castle_moon.bstamp",
+      "isPremium": true,
+      "packId": "pack_wafu_01",
+      "category": "日本の和の風景",
       "price": "$1.50"
     }
   ]
